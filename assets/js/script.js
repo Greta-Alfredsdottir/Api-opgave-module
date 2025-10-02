@@ -1,5 +1,5 @@
 // her er vores main javascript
-// Her skal vi samle sammen alle vores moduler
+// Her skal vi sammle sammen alle vores moduler
 
 
 import getDogImages from "./module/api.js"
